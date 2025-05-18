@@ -68,10 +68,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="꯱ׁׅ֒υׁׅ℘℘ᨵׁׅꭈׁׅtׁׅ", url="https://t.me/+ploaBuN6_l5hMzY1",
+                text="꯱ׁׅ֒υׁׅ℘℘ᨵׁׅꭈׁׅtׁׅ", url="https://t.me/+opFYz8j5IzBmYjY1",
             ),
             InlineKeyboardButton(
-                text="υׁׅ℘ժׁׅ݊ɑׁׅ֮tׁׅꫀׁׅܻ", url="https://t.me/soulmates_1433",
+                text="υׁׅ℘ժׁׅ݊ɑׁׅ֮tׁׅꫀׁׅܻ", url="https://t.me/SabariSquad_Chat",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="꯱ׁׅ֒υׁׅ℘℘ᨵׁׅꭈׁׅtׁׅ", url="https://t.me/+ploaBuN6_l5hMzY1",
+                text="꯱ׁׅ֒υׁׅ℘℘ᨵׁׅꭈׁׅtׁׅ", url="https://t.me/+opFYz8j5IzBmYjY1",
             ),
             InlineKeyboardButton(
-                text="υׁׅ℘ժׁׅ݊ɑׁׅ֮tׁׅꫀׁׅܻ", url="https://t.me/soulmates_1433",
+                text="υׁׅ℘ժׁׅ݊ɑׁׅ֮tׁׅꫀׁׅܻ", url="https://t.me/SabariSquad_Chat",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
